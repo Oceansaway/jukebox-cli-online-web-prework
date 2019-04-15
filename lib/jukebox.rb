@@ -1,8 +1,8 @@
 songs = [
-  "Phoenix - 1901",	 
-  "Tokyo Police Club - Wait Up",	  
-  "Amos Lee - Keep It Loose, Keep It Tight"	 
-]	
+  "Phoenix - 1901",
+  "Tokyo Police Club - Wait Up",
+  "Amos Lee - Keep It Loose, Keep It Tight"
+]
 
 
  def help
